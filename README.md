@@ -8,12 +8,12 @@ Teaching freshers Git & GitHub and how to make PRs.
 Git & GitHub night session.
 </h1>
 
-![Generic badge](https://img.shields.io/badge/create-PR-orange) 
+![Generic badge](https://img.shields.io/badge/Practice-PR-orange) 
 
 ## Instructions
 
 [![chrome](https://img.shields.io/badge/Create-PR-lightgrey.svg?logo=google-chrome&style=popout&logoColor=red)](https://github.com/akshatvg/Git-GitHub-Session)
-`Be Creative`
+Be Creative
 
 ## Need help?
 Feel free to contact me via [Facebook](https://www.facebook.com/akshatvg).
