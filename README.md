@@ -13,7 +13,7 @@ Git & GitHub night session.
 ## Instructions
 
 [![chrome](https://img.shields.io/badge/Create-PR-lightgrey.svg?logo=google-chrome&style=popout&logoColor=red)](https://github.com/akshatvg/Git-GitHub-Session)
-Be Creative
+<p>Be Creative</p>
 
 ## Need help?
 Feel free to contact me via [Facebook](https://www.facebook.com/akshatvg).
