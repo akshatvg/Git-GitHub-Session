@@ -59,7 +59,7 @@ ______      _               _   _               _
 
 ## License
 
-**MIT &copy; [Akshat Gupta](https://github.com/akshatvg/Git-GitHub-Session/blob/master/LICENSE)**
+**GPL-3.0 &copy; [Akshat Gupta](https://github.com/akshatvg/Git-GitHub-Session/blob/master/LICENSE)**
 
 [![GitHub license](https://img.shields.io/github/license/akshatvg/Git-GitHub-Session?style=social&logo=github)](https://github.com/akshatvg/Git-GitHub-Session/blob/master/LICENSE) [![Twitter Follow](https://img.shields.io/twitter/follow/akshatvg?style=social)](https://twitter.com/akshatvg)
 
